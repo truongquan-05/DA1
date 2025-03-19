@@ -12,7 +12,19 @@ Website bán điện thoại được xây dựng bằng PHP giúp người dùn
 - Thêm sản phẩm vào giỏ hàng, cập nhật số lượng, xóa sản phẩm.  
 - Thanh toán đơn hàng (COD, Online), nhập thông tin giao hàng.  
 - Đăng ký, đăng nhập, quản lý tài khoản cá nhân.  
-- Xem lịch sử mua hàng, trạng thái đơn hàng.  
+- Xem lịch sử mua hàng, trạng thái đơn hàng.
+
+<p align="center">
+  <img src="https://github.com/truongquan-05/DA1/blob/master/img/Screenshot%202025-03-19%20153823.png" width="300">
+  <img src="https://github.com/truongquan-05/DA1/blob/master/img/Screenshot%202025-03-19%20153834.png" width="300">
+  <img src="https://github.com/truongquan-05/DA1/blob/master/img/Screenshot%202025-03-19%20153846.png" width="300">
+  <img src="https://github.com/truongquan-05/DA1/blob/master/img/Screenshot%202025-03-19%20153857.png" width="300">
+  <img src="https://github.com/truongquan-05/DA1/blob/master/img/Screenshot%202025-03-19%20154015.png" width="300">
+  <img src="https://github.com/truongquan-05/DA1/blob/master/img/Screenshot%202025-03-19%20154041.png" width="300">
+</p>
+
+
+
 
 ### 🔧 Quản trị viên  
 - Quản lý danh mục điện thoại .  
